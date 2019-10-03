@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Phoenix_Moneybookers",
+    "name": "OpenMageModuleFostering\/Phoenix_Moneybookers",
     "type": "magento-module",
     "license": "mixed",
     "homepage": "",
     "description": "Moneybookers payment gateway integration",
     "authors": [
-    {
-        "name": "Magento Core Team",
-        "email": "core@magentocommerce.com"
-    }
-],
+        {
+            "name": "Magento Core Team",
+            "email": "core@magentocommerce.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
